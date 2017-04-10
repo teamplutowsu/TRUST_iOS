@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BE93941FDFAFA6BF4EA1572CD60D61C90F26735A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6DCAF29A8202CAC39CFB9C087866171420280DA8" : 9223372036854775807,
+    "BE93941FDFAFA6BF4EA1572CD60D61C90F26735A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7C592A2D-5ED7-4513-8FA0-8CB2694F5264",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6DCAF29A8202CAC39CFB9C087866171420280DA8" : "",
+    "BE93941FDFAFA6BF4EA1572CD60D61C90F26735A" : "TRUST_iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TRUST Heart Failure",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TRUST Heart Failure\/TRUST Heart Failure.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Kharamot\/iOSApps.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DCAF29A8202CAC39CFB9C087866171420280DA8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.eecs.wsu.edu\/2016-CptS421-423\/TRUST_iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE93941FDFAFA6BF4EA1572CD60D61C90F26735A"
+    }
+  ]
+}

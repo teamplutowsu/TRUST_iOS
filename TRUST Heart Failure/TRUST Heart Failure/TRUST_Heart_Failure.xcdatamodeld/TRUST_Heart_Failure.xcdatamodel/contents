@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16D32" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Bookmark" representedClassName="Bookmark" syncable="YES" codeGenerationType="class">
+        <attribute name="module_num" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="page_num" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Log" representedClassName="Log" syncable="YES" codeGenerationType="class">
+        <attribute name="date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="event" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="event_num" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="platform" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Module" representedClassName="Module" syncable="YES" codeGenerationType="class">
+        <attribute name="img_file" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="module_num" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="npages" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="pla" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Bookmark" positionX="-54" positionY="36" width="128" height="75"/>
+        <element name="Log" positionX="-63" positionY="-18" width="128" height="133"/>
+        <element name="Module" positionX="-36" positionY="45" width="128" height="120"/>
+    </elements>
+</model>
